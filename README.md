@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Hafizh Maulana 👋
 
 ### and here is my stats
-<p align="center"><img src="https://user-images.githubusercontent.com/110292710/203680276-a303a91a-7287-41a9-8de1-d71d6427f306.JPG"><br /><br />
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/110292710/203680276-a303a91a-7287-41a9-8de1-d71d6427f306.JPG"><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=hapissmaulanaa&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hapissmaulanaa&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hapissmaulanaa&layout=compact&theme=monokai&langs_count=12"/><br />
