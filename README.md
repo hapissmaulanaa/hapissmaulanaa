@@ -1,4 +1,4 @@
-### Hi guys, I'm Muhammad Hafizh Maulana 👋
+<center>### Hi guys, I'm Muhammad Hafizh Maulana 👋</center>
 
 <p align="center">
   <br />
