@@ -1,6 +1,5 @@
-### Hi there, I'm Muhammad Hafizh Maulana 👋
+### Hi guys, I'm Muhammad Hafizh Maulana 👋
 
-### and here is my stats
 <p align="center">
   <br />
   <br />
